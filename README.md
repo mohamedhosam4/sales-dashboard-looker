@@ -7,7 +7,7 @@
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/mohamedhosam4/sales-dashboard-looker/blob/main/Screenshot%202025-06-07%20194315.png?raw=true)
+![Dashboard Screenshot]([https://github.com/mohamedhosam4/sales-dashboard-looker/blob/main/Screenshot%202025-06-07%20194315.png?raw=true](https://github.com/mohamedhosam4/sales-dashboard-looker/blob/main/1.png))
 
 ---
 
